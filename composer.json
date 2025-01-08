@@ -1,0 +1,7 @@
+{
+    "name": "miesaf/hulubalang",
+    "description": "Authenticator and bearer token generator",
+    "require": {
+        "php": ">=5.2"
+    }
+}
