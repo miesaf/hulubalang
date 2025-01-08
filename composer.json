@@ -1,7 +1,16 @@
 {
     "name": "miesaf/hulubalang",
     "description": "Authenticator and bearer token generator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muhamad Amirul",
+            "email": "miesaf@dimensikini.xyz",
+            "homepage": "https://github.com/miesaf"
+        },
+    ],
     "require": {
-        "php": ">=5.2"
+        "php": ">=5.2",
+        "ext-json": "*"
     }
 }
