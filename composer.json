@@ -7,7 +7,7 @@
             "name": "Muhamad Amirul",
             "email": "miesaf@dimensikini.xyz",
             "homepage": "https://github.com/miesaf"
-        },
+        }
     ],
     "require": {
         "php": ">=5.2",
